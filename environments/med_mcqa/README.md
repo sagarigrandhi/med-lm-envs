@@ -53,8 +53,10 @@ uv run vf-eval \
 ```
 Replace `OPENAI_API_KEY` with your actual API key.
 
-### Author
-Developed by **[Ratna Sagari Grandhi](https://www.linkedin.com/in/ratnasagarigrandhi)**
+### Authors
+This environment has been put together by:
+
+Ratna Sagari Grandhi - ([@sagarigrandhi](https://github.com/sagarigrandhi))
 
 ### Credits 
 Dataset:

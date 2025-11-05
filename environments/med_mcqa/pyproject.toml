@@ -2,10 +2,12 @@
 name = "med_mcqa"
 description = "Med MCQA evaluation environment"
 readme = "README.md"
-authors = [{name = "Ratna Sagari Grandhi"}]
 tags = ["medical", "single-turn", "multiple-choice", "train", "eval"]
 version = "0.1.0"
 requires-python = ">=3.10"
+authors = [
+    { name = "Ratna Sagari Grandhi", email = "sagari.grandhi@gmail.com" },
+]
 dependencies = [
     "verifiers>=0.1.5.post0",
     "medarc_verifiers>=0.1.0",

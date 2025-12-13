@@ -14,7 +14,7 @@ Evaluation environment for the HEAD-QA v2 dataset.
 
 ### Task
 - **Type**: Single-turn
-- **Parser**: `Parser` (standard) or `ThinkParser` (if using reasoning mode) depending on `use_think`
+- **Parser**: `JSONParser`
 - **Rubric overview**: Binary scoring (1.0 / 0.0), based on correct answer
 - **Reward function:** `accuracy` — returns 1.0 if the predicted answer matches, else 0.0.
 
